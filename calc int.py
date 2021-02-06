@@ -12,5 +12,4 @@ for i in range(0, loanMonths):
 print("\nInitial amount: $", round(startAmt, 2))
 print(f"Compound amount after {loanMonths} months: ${round(compAmt, 2)}")
 print(f"Simple amount after {loanMonths} months: ${round(simpleAmt, 2)}")
-print("You are a rich person if you do this!")
     
